@@ -26,9 +26,8 @@ Hai perkenalkan nama saya billy, saya membuat website ini dengan tujuan buat ref
 ```
 
 # Template
-<br>
 Template dari Reza-admin [<a href='https://github.com/rezafikkri/Reza-Admin'>Link</a>]
-<br>
+
 # Halaman admin
 ```
 Halaman = [host]/admin
