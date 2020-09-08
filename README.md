@@ -26,7 +26,7 @@ Hai perkenalkan nama saya billy, saya membuat website ini dengan tujuan buat ref
 ```
 
 # Template
-Template dari Reza-admin [<a href='https://github.com/rezafikkri/Reza-Admin'>Link</a>]
+Template dari Reza-admin [ <a href='https://github.com/rezafikkri/Reza-Admin'>Link</a> ]
 
 # Halaman admin
 ```
@@ -46,15 +46,18 @@ Website siap digunakan!
 # Lisensi
 ![GitHub](https://img.shields.io/github/license/icwr-tech/absensi-siswa?color=red&style=flat-square)
 
-<br>
 # Gambar
 
 <img src="1.png" alt="gambar">
+<br>
 <img src="2.png" alt="gambar">
+<br>
 <img src="3.png" alt="gambar">
+<br>
 <img src="4.png" alt="gambar">
+<br>
 <img src="5.png" alt="gambar">
 
 
-
+Thx:")
 
