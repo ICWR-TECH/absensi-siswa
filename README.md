@@ -26,7 +26,7 @@ Hai perkenalkan nama saya billy, saya membuat website ini dengan tujuan buat ref
 ```
 
 # Template
-Template dari Reza-admin [ <a href='https://github.com/rezafikkri/Reza-Admin'>Link</a> ]
+Template dari Reza-admin [ <a href='https://github.com/rezafikkri/Reza-Admin' target="_blank">Link</a> ]
 
 # Halaman admin
 ```
